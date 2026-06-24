@@ -1,0 +1,7 @@
+chat_model_name: mimo-v2.5-pro
+chat_model_api_key: 
+chat_model_url: 
+
+embedding_model_name: text-embedding-v4
+embedding_model_api_key: 
+
